@@ -26,7 +26,7 @@ After 10000 iterations (yes, believe your eyes):
 
 <img src="GIFs/Barnsley.png">
 
-What's fascinating to me is the fact that a seemingly simple set of rules you can describe shapes that are considerably complex.
+What's fascinating to me is the fact that simply by repeatedly transforming a point, based on a probabiltiy, can describe shapes that are considerably complex.
 
 You hear people saying that nature is mysterious. Sometimes, behind those mysteries there is an elegance. An elegance that cannot put described using words but can only be felt. 
 
