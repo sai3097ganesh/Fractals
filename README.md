@@ -15,7 +15,7 @@ Typically, more the number of the iterations you run the simualtion, better is t
 After about 10000 iterations, we end up with this.
 <img src="GIFs/Triangle_10000">
 
-What you see is called Serpinski triangle. What's happening is that basically the three points in 2D (the geometry) acting as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on - meaning they are <i>self-similar<i> shapes. 
+What you see is called Serpinski triangle. What's happening is that basically the three points in 2D (the geometry) acting as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on - meaning they are </i>self-similar</i> shapes. 
 
 # The Barnsley Fern
 Have you ever seem Mathematics springing into life? With a modified version of the above algorithm with two triangles instead of one can keep track of points to end up with a fern! 
