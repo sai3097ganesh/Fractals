@@ -9,20 +9,24 @@ Turns out that fractals are incredibly simple to generate. All you need to do is
 - March forward by half the distance between your current position and the choosen corner.
 - Repeat from step 2 until the number of iterations you want. 
 
-Typically, more the number of the iterations you run the simualtion, better is the resoltuion. This is what it looks like when you run the simulation. 
+Typically, more the number of the iterations you run the simualtion, better is the resoltuion. This is what it looks like when you run the simulation.
+
 <img src="GIFs/Triangle.gif">
 
 After about 10000 iterations, we end up with this.
-<img src="GIFs/Triangle_10000">
+
+<img src="GIFs/Triangle_10000.png">
 
 What you see is called Serpinski triangle. What's happening is that basically the three points in 2D (the geometry) acting as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on - meaning they are </i>self-similar</i> shapes. 
 
 # The Barnsley Fern
 Have you ever seem Mathematics springing into life? With a modified version of the above algorithm with two triangles instead of one can keep track of points to end up with a fern! 
+
 <img src="GIFs/Barnsley.gif">
 
 After 10000 iterations (believe your eyes):
-<img src="GIFs/Barnsley.gif">
+
+<img src="GIFs/Barnsley.png">
 
 I have no words to describe how elegant it is to create something that live with in our daily life but never fail to think further. 
 
