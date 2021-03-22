@@ -1,5 +1,5 @@
 # What's up with fractals?
-Fractals are amazing. Like the way my advisor used to explain: A circle is an infinitely smooth shape whereas fractals are invinitely sharp.
+Fractals are amazing. Like the way my advisor used to explain: A circle is an </b>infinitely smooth</b> shape whereas fractals are </b>invinitely sharp</b>!
 
 # A simple fractal generator
 Turns out that fractals are incredibly simple to generate. All you need to do is to keep track of a point moving randomly. But the movement of the point is constrained, often controlled by a geometry. Let's take triangle for example.
@@ -13,22 +13,26 @@ Typically, more the number of the iterations you run the simualtion, better is t
 
 <img src="GIFs/Triangle.gif">
 
-The fractal that emerges is called Serpinski triangle. What's happening is that the three corner points of the triangle (the geometry) act as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on - meaning they are </i>self-similar</i> shapes. 
+The fractal that emerges is called Serpinski triangle. What's happening is that the three corner points of the triangle (the geometry) act as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on. This is why fractals are said to exhibit </i>self-similar</i> property - endlessly repeating its own shape at every scale. 
 
 # The Barnsley Fern
-Have you ever seem Mathematics springing into life? With a slightly modified version of the above algorithm with two triangles instead of one, the collection of random points that you end up with litterally looks like a fern! 
+Have you ever seem Mathematics springing into life? 
+
+Consider a slight modification of the above method - with two triangles instead of one. In the previous example, you can choose either of the three corners with equal probablity. For this example, you have a probablity for choosing between the three corners of each triangle and a probablity jumping in-between the two triangles. We will plug-in some pre-computed values of such probablity that adds up to 1. If you repeat the steps, the collection of random points that you end up with litterally looks like a fern! 
 
 <img src="GIFs/Barnsley.gif">
 
-After 10000 iterations (believe your eyes):
+After 10000 iterations (yes, believe your eyes):
 
 <img src="GIFs/Barnsley.png">
 
-I have no words to describe how elegant it is to create something that live with in our daily life but never fail to think further. 
+What's fascinating to me is the fact that a seemingly simple set of rules you can describe shapes that are considerably complex.
 
-The gift that of doing such simulations is the pleasure of understanding a facet of how nature works. A curiosity to extend the effort to try and generate other artifacts of nature almost irresistably ensues. The next time you stare at a tree, we have more things to be fascinated about. Yes, hidden behind all such complexity there are a simple of rules that nature follows to create all the things we see around.
+You hear people saying that nature is mysterious. Sometimes, behind those mysteries there is an elegance. An elegance that cannot put described using words but can only be felt. 
 
-So the moral of the story is that the next time someone calls you to go out - be it a walk or a trek, please don't say no! 
+The gift that of doing such simulations is the pleasure of understanding a facet of how nature works. A curiosity to extend the effort to try and generate other artifacts of nature almost irresistably ensues. The next time you stare at a tree, I believe you will have more things to be fascinated about. Yes, hidden behind all such complexity there are a simple of rules that nature follows to create all the things we see around.
+
+So, at the end of the day, the moral of the story is that the next time someone calls you to go out - be it a walk or a trek, please don't say no ;)
 
 # References:
 - [Chaos Game](https://youtu.be/kbKtFN71Lfs)
