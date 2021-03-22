@@ -13,7 +13,7 @@ Typically, more the number of the iterations you run the simualtion, better is t
 
 <img src="GIFs/Triangle.gif">
 
-The fractal that emerges is called Serpinski triangle. What's happening is that the three corner points of the triangle (the geometry) act as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on. This is why fractals are said to exhibit </i>self-similar</i> property - endlessly repeating its own shape at every scale. 
+The fractal that emerges is called Sierpiński triangle. What's happening is that the three corner points of the triangle (the geometry) act as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on. This is why fractals are said to exhibit </i>self-similar</i> property - endlessly repeating its own shape at every scale. 
 
 # The Barnsley Fern
 Have you ever seem Mathematics springing into life? 
