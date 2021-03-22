@@ -2,7 +2,7 @@
 Fractals are amazing. Like the way my advisor used to explain: A circle is an infinitely smooth shape whereas fractals are invinitely sharp.
 
 # A simple fractal generator
-Turns out that fractals are incredibly simple to generate. All you need to do is to keep track of a collection of a point moving randomly. But the movement of the point is constrained, often controlled by a geometry. Let's take triangle for example.
+Turns out that fractals are incredibly simple to generate. All you need to do is to keep track of a point moving randomly. But the movement of the point is constrained, often controlled by a geometry. Let's take triangle for example.
 
 - Consider take a triangle ABC and say you are standing somewhere inside this triangle. 
 - Now you pick a corner A or B or C.
@@ -13,14 +13,10 @@ Typically, more the number of the iterations you run the simualtion, better is t
 
 <img src="GIFs/Triangle.gif">
 
-After about 10000 iterations, we end up with this.
-
-<img src="GIFs/Triangle.png">
-
-What you see is called Serpinski triangle. What's happening is that basically the three points in 2D (the geometry) acting as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on - meaning they are </i>self-similar</i> shapes. 
+The fractal that emerges is called Serpinski triangle. What's happening is that the three corner points of the triangle (the geometry) act as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on - meaning they are </i>self-similar</i> shapes. 
 
 # The Barnsley Fern
-Have you ever seem Mathematics springing into life? With a modified version of the above algorithm with two triangles instead of one can keep track of points to end up with a fern! 
+Have you ever seem Mathematics springing into life? With a slightly modified version of the above algorithm with two triangles instead of one, the collection of random points that you end up with litterally looks like a fern! 
 
 <img src="GIFs/Barnsley.gif">
 
