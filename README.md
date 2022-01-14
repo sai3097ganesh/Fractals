@@ -30,9 +30,7 @@ What's fascinating to me is the fact that simply by repeatedly transforming a po
 
 You hear people saying that nature is mysterious. Sometimes, behind those mysteries there is an elegance. An elegance that cannot put described using words but can only be felt. 
 
-The gift that of doing such simulations is the pleasure of understanding a facet of how nature works. A curiosity to extend the effort to try and generate other artifacts of nature almost irresistably ensues. The next time you stare at a tree, I believe you will have more things to be fascinated about. Yes, hidden behind all such complexity there are a simple of rules that nature follows to create all the things we see around.
-
-So, at the end of the day, the moral of the story is that the next time someone calls you to go out - be it a walk or a trek, please don't say no ;)
+The gift that of doing such simulations is the pleasure of understanding a facet of how nature works. A curiosity to extend the effort to try and generate other artifacts of nature almost irresistably ensues.
 
 # References:
 - [Chaos Game](https://youtu.be/kbKtFN71Lfs)
