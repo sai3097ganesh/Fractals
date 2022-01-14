@@ -28,7 +28,7 @@ After 10000 iterations (yes, believe your eyes):
 
 What's fascinating to me is the fact that simply by repeatedly transforming a point, based on a probabiltiy, can describe shapes that are considerably complex.
 
-You hear people saying that nature is mysterious. Sometimes, behind those mysteries there is an elegance. An elegance that cannot put described using words but can only be felt. 
+You hear people saying that nature is mysterious. Sometimes, behind those mysteries there is an elegance. An elegance that cannot be described using words but can only be felt. 
 
 The gift that of doing such simulations is the pleasure of understanding a facet of how nature works. A curiosity to extend the effort to try and generate other artifacts of nature almost irresistably ensues.
 
