@@ -1,5 +1,5 @@
-# What's up with fractals?
-Fractals are amazing. Like the way my advisor used to explain: A circle is an </b>infinitely smooth</b> shape whereas fractals are </b>invinitely sharp</b>!
+# Fractals?
+Stole this from my advisor: A circle is an </b>infinitely smooth</b> shape whereas fractals are </b>invinitely sharp</b>.
 
 # A simple fractal generator
 Turns out that fractals are incredibly simple to generate. All you need to do is to keep track of a point moving randomly. But the movement of the point is constrained, often controlled by a geometry. Let's take triangle for example.
