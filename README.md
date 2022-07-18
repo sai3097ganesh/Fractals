@@ -2,7 +2,7 @@
 Stole this from my advisor: A circle is an </b>infinitely smooth</b> shape whereas fractals are </b>invinitely sharp</b>.
 
 # A simple fractal generator
-Turns out that fractals are incredibly simple to generate. All you need to do is to keep track of a point moving randomly. But the movement of the point is constrained, often controlled by a geometry. Let's take triangle for example.
+Turns out that fractals are incredibly simple to generate. All you need to do is perform repeated set of transformation to a point. 
 
 - Consider take a triangle ABC and say you are standing somewhere inside this triangle. 
 - Now you pick a corner A or B or C.
