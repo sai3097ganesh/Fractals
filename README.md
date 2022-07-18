@@ -17,11 +17,11 @@ The fractal that emerges is called Sierpiński triangle. What's happening is tha
 
 # The Barnsley Fern - where math springs to life
 
-Consider a slight modification of the above method - with two triangles instead of one. In the previous example, you can choose either of the three corners with equal probablity. For this example, you have a probablity for choosing between the three corners of each triangle and a probablity jumping in-between the two triangles. We will plug-in some pre-computed values of such probablity that adds up to 1. If you repeat the steps, the collection of random points that you end up with litterally looks like a fern! 
+Consider a slight modification of the above method - with two triangles instead of one. In the previous example, you can choose either of the three corners with equal probablity. For this example, you have a probablity for choosing between the three corners of each triangle and a probablity jumping in-between the two triangles. We will plug-in some pre-computed values of such probablity that adds up to 1. Now look what we get upon repeated transformations. 
 
 <img src="GIFs/Barnsley.gif">
 
-After 10000 iterations (yes, believe your eyes):
+After 10000 iterations:
 
 <img src="GIFs/Barnsley.png">
 
