@@ -4,8 +4,8 @@ Stole this from my advisor: A circle is an </b>infinitely smooth</b> shape where
 # A simple fractal generator
 Turns out that fractals are incredibly simple to generate. All you need to do is perform repeated set of transformation to a point. 
 
-- Consider take a triangle ABC and say you are standing somewhere inside this triangle. 
-- Now you pick a corner A or B or C.
+- Consider a triangle ABC and say you are standing anywhere "inside" this triangle. 
+- Now you pick a corner A or B or C (randomly).
 - March forward by half the distance between your current position and the choosen corner.
 - Repeat from step 2 until the number of iterations you want. 
 
