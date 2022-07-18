@@ -15,8 +15,7 @@ Typically, more the number of the iterations you run the simualtion, better is t
 
 The fractal that emerges is called Sierpiński triangle. What's happening is that the three corner points of the triangle (the geometry) act as a guide for the point that is wanting to move randomly. The interesting thing you'll notice is how much so over you zoom in, you will find a triangle, inside a triangle, inside a triangle, inside a triangle and so on. This is why fractals are said to exhibit </i>self-similar</i> property - endlessly repeating its own shape at every scale. 
 
-# The Barnsley Fern
-Have you ever seem Mathematics springing into life? 
+# The Barnsley Fern - where math springs to life
 
 Consider a slight modification of the above method - with two triangles instead of one. In the previous example, you can choose either of the three corners with equal probablity. For this example, you have a probablity for choosing between the three corners of each triangle and a probablity jumping in-between the two triangles. We will plug-in some pre-computed values of such probablity that adds up to 1. If you repeat the steps, the collection of random points that you end up with litterally looks like a fern! 
 
