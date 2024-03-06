@@ -16,10 +16,6 @@ writer = FFMpegWriter(fps=100, metadata=metadata)
 num_cores = multiprocessing.cpu_count()
 print(num_cores)
 
-# if __name__ == "__main__":
-#    processed_list = Parallel(n_jobs=num_cores)(delayed(my_function(i,parameters) 
-#                                                        for i in inputs))
-
 A = np.array([0,0])
 B = np.array([1,0])
 C = np.array([0.5, 1])
